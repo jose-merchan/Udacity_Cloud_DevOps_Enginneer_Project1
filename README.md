@@ -11,7 +11,7 @@ Site contains the details required to illustrate the project steps
 ![Captura de pantalla 2022-02-24 a las 15 32 56](https://user-images.githubusercontent.com/23102562/155544254-063ad10c-7324-4a7e-b94a-726f9e1290a2.png)
   * Access the newly created bucket by clicking on its name
 ![Captura de pantalla 2022-02-24 a las 15 34 52](https://user-images.githubusercontent.com/23102562/155544589-7e62a744-2d70-42f7-a2e4-3a11181cce17.png)
-  * Go to permissions > Edit Bucket policy, modifyng the JSON policy provided but associated to the ARN of the bucket
+  * Go to permissions > Edit Bucket policy, modifyng the JSON policy provided but associated to the ARN of the bucket. The policy allows GET (READ) access to all the object part of the bucket.
 ![Captura de pantalla 2022-02-24 a las 15 35 48](https://user-images.githubusercontent.com/23102562/155544819-ff6c4742-4860-4fdc-a676-405627f2aab3.png)
   * After commiting the changes, the Bucket becomes publicly accesible
 ![Captura de pantalla 2022-02-24 a las 15 36 42](https://user-images.githubusercontent.com/23102562/155544982-134bfacc-5e5b-45e6-96e9-64e5628d723d.png)
